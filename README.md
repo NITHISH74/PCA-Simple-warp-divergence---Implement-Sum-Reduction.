@@ -1,4 +1,4 @@
-# Ex-03-Simple-warp-divergence---Implement-Sum-Reduction.
+# Ex-03-Simple-warp-divergence--Implement-Sum-Reduction.
 ### Date:
 ## AIM
 To implement the kernel reduceUnrolling16 and comapare the performance of kernal reduceUnrolling16 with kernal reduceUnrolling8 using proper metrics and events with nvprof.
